@@ -1,1 +1,1 @@
-# content-for-solidity-lab-part-2
+# content-for-solidity-lab-2
